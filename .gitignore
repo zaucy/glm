@@ -53,6 +53,7 @@ Makefile
 
 # local build(s)
 build*
+!BUILD.bazel
 
 /.vs
 /.vscode
